@@ -1,6 +1,8 @@
 # Geometric Gauge Theory from Fractal Ropes
 (Pretty much circular reasoning) 
 
+https://youtu.be/s8V1UWWkrNM
+
 This project is a series of Python simulations exploring the concept of deriving fundamental forces from an underlying "fractal rope" geometry.
 (Inspired by Tim Palmer) 
 
